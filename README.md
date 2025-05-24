@@ -1,2 +1,2 @@
-# multihypernet
-Python package focused on multilayer (directed) hypergraphs.
+# MultiHypernet
+MultiHypernet is a Python package focused on multilayer (directed) hypergraphs.
